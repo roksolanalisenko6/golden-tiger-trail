@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Golden Tiger Trail</string>
+
+    <string name="brand_title">GOLDEN TIGER TRAIL</string>
+    <string name="splash_subtitle">READ THE TRAIL &#183; FIND THE RELICS</string>
+    <string name="splash_loading">LOADING...</string>
+
+    <string name="menu_tagline">THE JUNGLE KEEPS THE COUNT</string>
+    <string name="menu_play">PLAY</string>
+    <string name="menu_continue">CONTINUE TRAIL %1$d</string>
+    <string name="menu_levels">LEVELS</string>
+    <string name="menu_collection">COLLECTION</string>
+    <string name="menu_progress">PROGRESS</string>
+    <string name="menu_settings">SETTINGS</string>
+    <string name="menu_rank">RANK %1$d</string>
+    <string name="menu_empty">NO RELICS RECOVERED YET</string>
+
+    <string name="stat_best">BEST</string>
+    <string name="stat_trail">TRAIL</string>
+    <string name="stat_sets">SETS</string>
+    <string name="stat_score">SCORE</string>
+    <string name="stat_relics">RELICS</string>
+    <string name="stat_streak">STREAK</string>
+    <string name="stat_total">TOTAL</string>
+    <string name="stat_cleared">CLEARED</string>
+    <string name="stat_stars">STARS</string>
+    <string name="stat_pairs">PAIRS</string>
+    <string name="stat_rounds">ROUNDS</string>
+
+    <string name="levels_title">LEVELS</string>
+    <string name="levels_locked">CLEAR TRAIL %1$d TO OPEN THIS ONE</string>
+    <string name="levels_hint">PICK AN OPEN TRAIL</string>
+    <string name="action_menu">MENU</string>
+
+    <string name="game_level">TRAIL %1$d</string>
+    <string name="game_hint">CHOOSE A SLAB, THEN OPEN IT &#183; DIG RISKS A TORCH, SCAN IS SAFE</string>
+    <string name="game_mode_dig">DIG</string>
+    <string name="game_mode_scan">SCAN</string>
+    <string name="game_open">FLIP</string>
+    <string name="game_buried">BURIED ON THIS TRAIL</string>
+    <string name="game_torches">%1$d TORCHES LEFT</string>
+    <string name="game_scan_count">SCAN %1$d</string>
+    <string name="game_banner_clue">CLUE %1$d AT %2$s &#183; RELICS AROUND IT</string>
+    <string name="game_banner_quiet">CLEAR SOIL AT %1$s &#183; NOTHING NEAR</string>
+    <string name="game_banner_track">%1$s TRACK AT %2$s</string>
+    <string name="game_banner_pair">TRACKS LINKED &#183; FREE CLUE OPENED</string>
+    <string name="game_banner_relic">RECOVERED %1$s</string>
+    <string name="game_banner_empty">EMPTY SOIL AT %1$s &#183; TORCH LOST</string>
+    <string name="game_banner_noscan">NO SCAN CHARGES LEFT &#183; SWITCH TO DIG</string>
+    <string name="game_banner_aim">TORCH AIMED AT %1$s</string>
+    <string name="game_banner_done">SLAB %1$s IS ALREADY OPEN</string>
+
+    <string name="pause_title">EXPEDITION PAUSED</string>
+    <string name="pause_body">TRAIL %1$d &#183; %2$d TORCHES &#183; %3$d RELICS</string>
+    <string name="pause_resume">RESUME</string>
+    <string name="pause_restart">RESTART</string>
+
+    <string name="result_win">TRAIL COMPLETED</string>
+    <string name="result_lose">TORCHES BURNED OUT</string>
+    <string name="result_next">NEXT TRAIL</string>
+    <string name="result_again">PLAY AGAIN</string>
+    <string name="result_recovered">RECOVERED THIS RUN</string>
+    <string name="result_nothing">NOTHING RECOVERED THIS RUN</string>
+
+    <string name="collection_title">COLLECTION</string>
+    <string name="collection_complete">SET COMPLETE &#183; PLUS ONE SCAN</string>
+    <string name="collection_missing">NOT YET RECOVERED</string>
+    <string name="collection_empty">THE VAULT IS EMPTY &#183; DIG YOUR FIRST RELIC</string>
+
+    <string name="progress_title">PROGRESS</string>
+    <string name="progress_complete">EXPEDITION COMPLETE</string>
+    <string name="progress_empty">NO EXPEDITION LOGGED YET &#183; OPEN TRAIL 1</string>
+    <string name="progress_trails">TRAIL BY TRAIL</string>
+
+    <string name="settings_title">SETTINGS</string>
+    <string name="settings_mode_title">EXPEDITION MODE</string>
+    <string name="settings_mode_desc">GUIDED opens one free clue at the start. EXPLORER skips it and grants one extra scan charge.</string>
+    <string name="settings_mode_guided">GUIDED</string>
+    <string name="settings_mode_explorer">EXPLORER</string>
+    <string name="settings_labels_title">SLAB LABELS</string>
+    <string name="settings_labels_desc">Draw the A1 to E5 coordinate on every slab and name it in the clue banner.</string>
+    <string name="settings_motion_title">REDUCED MOTION</string>
+    <string name="settings_motion_desc">Replace slab flips with a short cross fade and hold decorative loops still.</string>
+    <string name="settings_on">ON</string>
+    <string name="settings_off">OFF</string>
+    <string name="settings_reset">RESET PROGRESS</string>
+    <string name="settings_reset_title">RESET THE EXPEDITION</string>
+    <string name="settings_reset_body">Trails, stars, scores and the whole relic collection are cleared. This cannot be undone.</string>
+    <string name="settings_confirm">CONFIRM</string>
+    <string name="settings_cancel">CANCEL</string>
+
+    <string name="animal_tiger">TIGER</string>
+    <string name="animal_serpent">SERPENT</string>
+    <string name="animal_monkey">MONKEY</string>
+    <string name="animal_heron">HERON</string>
+
+    <string name="set_1">TIGER IDOL SET</string>
+    <string name="set_2">JADE SERPENT SET</string>
+    <string name="set_3">IVORY TUSK SET</string>
+    <string name="set_4">OBSIDIAN MASK SET</string>
+    <string name="set_5">ORCHID SEAL SET</string>
+
+    <string name="relic_1">Brass Tiger Head</string>
+    <string name="relic_2">Striped Jade Eye</string>
+    <string name="relic_3">Gilded Tiger Paw</string>
+    <string name="relic_4">Coiled Serpent Coin</string>
+    <string name="relic_5">Serpent Scale Disc</string>
+    <string name="relic_6">Fanged Clasp</string>
+    <string name="relic_7">Carved Tusk Tip</string>
+    <string name="relic_8">Banded Ivory Ring</string>
+    <string name="relic_9">Tusk Hilt</string>
+    <string name="relic_10">Monkey Brow Shard</string>
+    <string name="relic_11">Obsidian Jaw</string>
+    <string name="relic_12">Mask Crown</string>
+    <string name="relic_13">Crimson Orchid Seal</string>
+    <string name="relic_14">Petal Signet</string>
+    <string name="relic_15">Stem Token</string>
+
+    <string name="fmt_ratio">%1$d / %2$d</string>
+    <string name="fmt_percent">%1$d%%</string>
+    <string name="fmt_level">%1$d</string>
+    <string name="mult_one">x1</string>
+    <string name="mult_half">x1.5</string>
+    <string name="mult_double">x2</string>
+
+    <string name="cd_logo">Golden Tiger Trail emblem</string>
+    <string name="cd_background">Night jungle temple clearing</string>
+    <string name="cd_menu">Back to the main menu</string>
+    <string name="cd_pause">Pause the expedition</string>
+    <string name="cd_relic">%1$s relic</string>
+    <string name="cd_slab">Slab %1$s</string>
+    <string name="cd_slab_hidden">hidden</string>
+    <string name="cd_slab_clue">clue %1$d</string>
+    <string name="cd_slab_track">%1$s track</string>
+    <string name="cd_slab_relic">relic recovered</string>
+    <string name="cd_slab_empty">empty soil</string>
+    <string name="cd_slab_aimed">aimed</string>
+    <string name="cd_torches">%1$d of %2$d torches lit</string>
+    <string name="cd_locked">locked</string>
+    <string name="cd_open">open</string>
+    <string name="cd_stars">%1$d of 3 stars</string>
+</resources>
